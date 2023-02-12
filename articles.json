@@ -1,20 +1,25 @@
 [
   {
     "title": "Las propiedades de la Savila",
-    "author": "John Doe",
-    "date_published": "2022-01-01",
-    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue dui quis mi blandit malesuada. Nam dapibus neque ac tellus sollicitudin euismod. Nullam luctus rhoncus enim, non dapibus sapien faucibus id."
+    "date_published": "2022-02-12",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam congue dui quis mi blandit malesuada. Nam dapibus neque ac tellus sollicitudin euismod. Nullam luctus rhoncus enim, non dapibus sapien faucibus id.",
+    "imagen" : "https://images.pexels.com/photos/1581101/pexels-photo-1581101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags" : ["savila","garden"]
   },
   {
     "title": "Article 2",
     "author": "Jane Doe",
     "date_published": "2022-02-01",
-    "content": "Donec auctor mauris sit amet odio molestie, vel convallis velit gravida. Aliquam erat volutpat. Integer bibendum auctor varius. Sed vitae libero id nisi dictum dictum. Morbi eget dolor consectetur, placerat odio eu, fringilla sapien."
+    "content": "Donec auctor mauris sit amet odio molestie, vel convallis velit gravida. Aliquam erat volutpat. Integer bibendum auctor varius. Sed vitae libero id nisi dictum dictum. Morbi eget dolor consectetur, placerat odio eu, fringilla sapien.",
+    "imagen" : "https://images.pexels.com/photos/1581101/pexels-photo-1581101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags" : ["savila","garden"]
   },
   {
     "title": "Article 3",
     "author": "Jim Smith",
     "date_published": "2022-03-01",
-    "content": "Sed tincidunt enim velit, in semper velit commodo vel. Integer vel lorem velit. Quisque at ante viverra, luctus enim at, faucibus metus. Integer id metus magna. Morbi tempor sem eget massa auctor, non convallis mauris sollicitudin."
+    "content": "Sed tincidunt enim velit, in semper velit commodo vel. Integer vel lorem velit. Quisque at ante viverra, luctus enim at, faucibus metus. Integer id metus magna. Morbi tempor sem eget massa auctor, non convallis mauris sollicitudin.",
+    "imagen" : "https://images.pexels.com/photos/1581101/pexels-photo-1581101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags" : ["savila","garden"]
   }
 ]
